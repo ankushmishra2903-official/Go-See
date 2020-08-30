@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "971146247485",
+    "firebase_url": "https://go-see-2.firebaseio.com",
+    "project_id": "go-see-2",
+    "storage_bucket": "go-see-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971146247485:android:75deb4e2fa0ea5d4d71954",
+        "android_client_info": {
+          "package_name": "com.example.gosee2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971146247485-0i8job9lfvotu0tc2fne60i2m0l0ifea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gosee2",
+            "certificate_hash": "a01aa7a1bc5b79db1233f6096464b7cc7158e81c"
+          }
+        },
+        {
+          "client_id": "971146247485-vht996b2hmm0giap90n4alalhhimbcvj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHU6-lJmo5jtn2zrDf_cR9hs6DcgAF1Hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971146247485-vht996b2hmm0giap90n4alalhhimbcvj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971146247485-22jtlh9u2ccf9jvl346nlj0qga7o5clm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gosee2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
