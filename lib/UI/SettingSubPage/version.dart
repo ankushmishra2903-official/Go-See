@@ -16,6 +16,7 @@ class Version extends StatelessWidget {
     ),
   );
 
+
   var versDetail = Column(
     children: <Widget>[
       Padding(
