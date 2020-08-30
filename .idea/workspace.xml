@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f2e09ab-6bf0-4873-83ab-9a74924dd657" name="Default Changelist" comment="" />
+    <list default="true" id="4f2e09ab-6bf0-4873-83ab-9a74924dd657" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/UI/SettingSubPage/version.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/UI/SettingSubPage/version.dart" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Dart File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cGVDupLZk5MYLn51LbzfPCc5FH" />
   <component name="ProjectViewState">

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-// ignore: must_be_immutable
 class Version extends StatelessWidget {
   String vers = 'Version 3.1.0';
 
