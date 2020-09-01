@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f2e09ab-6bf0-4873-83ab-9a74924dd657" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/UI/SettingSubPage/version.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/UI/SettingSubPage/version.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +30,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="AnalyzeApkAction.lastApkPath" value="$PROJECT_DIR$/build/app/outputs/apk/app.apk" />
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
@@ -49,32 +55,52 @@
       <option name="presentableId" value="Default" />
       <updated>1590154800985</updated>
     </task>
+    <task id="LOCAL-00001" summary="testing android studio">
+      <created>1598798140942</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598798140942</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="testing android studio" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing android studio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="364" y="31" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598701951304">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="364" y="31" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.738@0.0.1366.738" timestamp="1598701951304" />
-    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1598772588382">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1598944720688">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598772588382" />
-    <state width="1323" height="457" key="GridCell.Tab.0.bottom" timestamp="1598785166073">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1598944720688" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1598878121082">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="457" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598785166073" />
-    <state width="1323" height="457" key="GridCell.Tab.0.center" timestamp="1598785166072">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598878121082" />
+    <state width="1323" height="456" key="GridCell.Tab.0.bottom" timestamp="1598888801083">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="457" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598785166072" />
-    <state width="1323" height="457" key="GridCell.Tab.0.left" timestamp="1598785166070">
+    <state width="1323" height="456" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1598888801083" />
+    <state width="1323" height="456" key="GridCell.Tab.0.center" timestamp="1598888801082">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="457" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598785166070" />
-    <state width="1323" height="457" key="GridCell.Tab.0.right" timestamp="1598785166072">
+    <state width="1323" height="456" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1598888801081" />
+    <state width="1323" height="456" key="GridCell.Tab.0.left" timestamp="1598888801077">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="457" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598785166072" />
+    <state width="1323" height="456" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1598888801077" />
+    <state width="1323" height="456" key="GridCell.Tab.0.right" timestamp="1598888801082">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="456" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1598888801082" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1598798147826">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1598798147826" />
   </component>
 </project>
