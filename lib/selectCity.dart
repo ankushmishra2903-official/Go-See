@@ -18,13 +18,22 @@ class _SelectCityState extends State<SelectCity> {
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
+          // Center(
+          //   child: Text(
+          //     'Welcome To GO SEE',
+          //     style: Theme.of(context)
+          //         .textTheme
+          //         .headline4
+          //         .copyWith(color: Colors.black),
+          //   ),
+          // ),
+          // SizedBox(
+          //   height: 20,
+          // ),
           Center(
-            child: Text(
-              'Welcome To GO SEE',
-              style: Theme.of(context)
-                  .textTheme
-                  .headline4
-                  .copyWith(color: Colors.black),
+            child: Image.asset(
+              'images/logo.png',
+              scale: 3,
             ),
           ),
           SizedBox(

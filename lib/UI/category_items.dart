@@ -38,54 +38,38 @@ class _CategoryItemsState extends State<CategoryItems> {
             var pPic = document['pic'];
             var pGMap = document['google_map'];
 
-
             Navigator.push(
               context,
               MaterialPageRoute(
                   builder: (context) => Please(
-                    pid: pid,
-                    pAbout: pAbout,
-                    pAdd: pAdd,
-                    pContactNo: pContactNo,
-                    pDisc: pDisc,
-                    pName: pName,
-                    pPic: pPic,
-                    pCity: pCity,
-                    pGMap: pGMap,
-                  )),
+                        pid: pid,
+                        pAbout: pAbout,
+                        pAdd: pAdd,
+                        pContactNo: pContactNo,
+                        pDisc: pDisc,
+                        pName: pName,
+                        pPic: pPic,
+                        pCity: pCity,
+                        pGMap: pGMap,
+                      )),
             );
           },
-
           child: Container(
 //                        padding: EdgeInsets.only(top: 10.0,bottom: 10.0),
             child: Row(
               children: <Widget>[
-                Image.network(document['pic'].toString(),),
+                Image.network(
+                  document['pic'].toString(),
+                ),
                 Container(),
                 Expanded(
                   child: Container(
-                    child: Column(
-
-                      children: <Widget>[
-                        Center(
-                            child: Text(
-                              document['name'],
-                              style: Theme
-                                  .of(context)
-                                  .textTheme
-                                  .headline6,
-                              textAlign: TextAlign.center,
-                            )),
-                        Divider(
-                          color: Colors.black,
-                        ),
-                        Padding(
-                          padding: const EdgeInsets.only(left: 8.0, right: 8.0),
-                          child: Center(
-                            child: Text(document['about'], textAlign: TextAlign.justify, style: Theme.of(context).textTheme.subtitle2,),
-                          ),
-                        ),
-                      ],
+                    child: Center(
+                      child: Text(
+                        document['name'],
+                        style: Theme.of(context).textTheme.headline6,
+                        textAlign: TextAlign.center,
+                      ),
                     ),
                   ),
                 )
@@ -122,12 +106,11 @@ class _CategoryItemsState extends State<CategoryItems> {
             );
 
           return ListView.builder(
-            itemExtent: 90.0,
+            itemExtent: 80.0,
             itemCount: snapshot.data.documents.length,
             itemBuilder: (context, index) =>
                 _buildListItem(context, snapshot.data.documents[index]),
           );
-
         },
       ),
     );
