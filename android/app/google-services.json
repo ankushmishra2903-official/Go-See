@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "971146247485-0i8job9lfvotu0tc2fne60i2m0l0ifea.apps.googleusercontent.com",
+          "client_id": "971146247485-05n3bt209h0vaoq9vkvfg11rg47u9har.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.gosee2",
-            "certificate_hash": "a01aa7a1bc5b79db1233f6096464b7cc7158e81c"
+            "certificate_hash": "7191d0daf37763c2cec0d6895e44e57e842bc2af"
           }
         },
         {
